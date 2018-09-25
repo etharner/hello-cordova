@@ -18,3 +18,4 @@ deploy:
     repo: etharner/hello-cordova
     branch: master
     tags: true
+#test
